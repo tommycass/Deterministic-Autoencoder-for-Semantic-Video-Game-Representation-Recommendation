@@ -65,7 +65,7 @@ Steam games dataset (Kaggle) — 102,712 games, 918 features per game:
 
 ## Paper
 
-Full paper available in this repository: [`Paper_DAE_Semantic_Recommendation`](./Paper_DAE_Semantic_Recommendation)
+Full paper available in this repository: [`Paper_DAE_Semantic_Representation`](./Paper_DAE_Semantic_Representation.pdf)
 
 ---
 
@@ -138,4 +138,4 @@ Dataset de videojuegos de Steam (Kaggle) — 102.712 juegos, 918 features por ju
 
 ## Paper
 
-Paper completo disponible en este repositorio: [`Paper_DAE_Semantic_Recommendation`](./Paper_DAE_Semantic_Recommendation)
+Paper completo disponible en este repositorio: [`Paper_DAE_Semantic_Representation`](./Paper_DAE_Semantic_Representation.pdf)
